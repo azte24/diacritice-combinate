@@ -9,8 +9,8 @@ https://silverstar1.xyz/donatii
 r. Pentru că acestea sunt diacriticele corecte, ş-ul pe care noi îl folosim este preluat din limba turcă.
 #### î. Ce sisteme de operare suportă programul?
 r. Toate sistemele de operare Windows, de la Windows XP în sus.
-#### î. Folosesti diacriticele astea?
-r. Da, acestea sunt diacriticele pe care le folosesc si eu.
+#### î. Foloseşti diacriticele astea?
+r. Da, acestea sunt diacriticele pe care le folosesc şi eu.
 
 --------------------
 
