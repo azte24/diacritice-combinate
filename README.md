@@ -14,4 +14,5 @@ https://silverstar1.xyz/donatii
 ##### e - €
 ##### x - ×
 ##### c - ©
-##### l - ł
+##### l - ł, Ł
+##### d - đ, Đ
